@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Keyboard body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,36 L84,36 C86.2,36 88,37.8 88,40 L88,68 C88,70.2 86.2,72 84,72 L24,72 C21.8,72 20,70.2 20,68 L20,40 C20,37.8 21.8,36 24,36 Z" />
+    <!-- Key row 1 -->
+    <path android:fillColor="#455A64" android:pathData="M26,41 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M33,41 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M40,41 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M47,41 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M54,41 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M61,41 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M68,41 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M75,41 h5 v5 h-5 z" />
+    <!-- Key row 2 -->
+    <path android:fillColor="#455A64" android:pathData="M28,49 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M35,49 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M42,49 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M49,49 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M56,49 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M63,49 h5 v5 h-5 z" />
+    <path android:fillColor="#455A64" android:pathData="M70,49 h5 v5 h-5 z" />
+    <!-- Space bar -->
+    <path android:fillColor="#455A64" android:pathData="M32,58 h44 v6 H32 z" />
+</vector>
